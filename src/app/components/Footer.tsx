@@ -9,7 +9,7 @@ export default function Footer() {
                 <div>
                     <h1 className='text-3xl border-l-4 border-blue-600 pl-2'>About us</h1>
                     <Image
-                        src="/logo.png"
+                        src="/Logo.png"
                         alt="logo"
                         width={120}
                         height={120}
