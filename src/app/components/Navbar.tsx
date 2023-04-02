@@ -14,7 +14,7 @@ export default function Navbar() {
             <div className="flex justify-between items-center md:px-20 px-5 py-2 w-full absolute">
                 {/* Logo */}
                 <div className="z-10">
-                    <Image src="/logo.png" alt="log" height={120} width={120} />
+                    <Image src="/Logo.png" alt="log" height={120} width={120} />
                 </div>
                 {/* Links or Button */}
                 <div>
