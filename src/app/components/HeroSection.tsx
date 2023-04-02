@@ -32,7 +32,7 @@ export default function HeroSection() {
                 </div>
                 <div>
                     <Image
-                        src="/Logo.svg"
+                        src="/logo.svg"
                         alt="logo"
                         width={150}
                         height={150}
@@ -59,7 +59,7 @@ export default function HeroSection() {
                         reset={true}
                     >
                         <Image
-                            src="/Logo2.webp"
+                            src="/logo2.webp"
                             alt="logo"
                             height={400}
                             width={400}
